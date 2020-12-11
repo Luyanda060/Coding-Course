@@ -1,0 +1,43 @@
+
+
+.heading{
+    color: yellow;
+    font-size: 60px;
+    
+}
+
+body {
+    color:white; 
+   background-image: url("Modesta2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color: lightblue;
+    float: left;
+}
+h1{
+    color: black;
+}
+
+button {
+    border: none;
+    color: pink;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+
+/*.img{
+  position: fixed;
+  top: 400px;
+  bottom: 0;
+  right: 100px;
+  left: 0;
+  width: 300px;
+
+}*/
